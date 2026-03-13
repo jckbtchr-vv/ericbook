@@ -1,0 +1,152 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1110 1760" width="1110" height="1760">
+  <defs>
+    <style>
+      @font-face {
+        font-family: 'Carbon';
+        src: url('./CarbonBold.ttf') format('truetype');
+      }
+      text { font-family: 'Carbon', monospace; text-transform: uppercase; fill: #000; }
+    </style>
+  </defs>
+
+  <rect width="1110" height="1760" fill="#fff"/>
+
+  <!-- Title -->
+  <text x="555" y="80" text-anchor="middle" font-size="14">TECHNICAL DIAGRAM</text>
+  <text x="555" y="94" text-anchor="middle" font-size="14">THE COMPENDIUM SANDWICH</text>
+  <text x="555" y="108" text-anchor="middle" font-size="14">ERIC JORGENSON — EXPLODED VIEW — ALL INGREDIENTS</text>
+
+  <!-- All shapes centered at x=555, width 360 (375–735) -->
+
+  <!-- A: TOP BUN -->
+  <g transform="translate(555, 260)">
+    <path d="M-180,0 A180,70 0 0,1 180,0" fill="none" stroke="#000" stroke-width="2.5"/>
+    <rect x="-180" y="0" width="360" height="24" fill="none" stroke="#000" stroke-width="2.5"/>
+  </g>
+  <line x1="337" y1="260" x2="370" y2="260" stroke="#000" stroke-width="2.5"/>
+  <polygon points="375,260 365,255 365,265" fill="#000"/>
+  <text x="60" y="255" font-size="14">A</text>
+  <text x="60" y="269" font-size="14">THE SANDWICH DOCTRINE</text>
+
+  <!-- B: LETTUCE -->
+  <g transform="translate(555, 380)">
+    <rect x="-180" y="-8" width="360" height="16" fill="none" stroke="#000" stroke-width="2.5"/>
+  </g>
+  <line x1="337" y1="380" x2="370" y2="380" stroke="#000" stroke-width="2.5"/>
+  <polygon points="375,380 365,375 365,385" fill="#000"/>
+  <text x="60" y="375" font-size="14">B</text>
+  <text x="60" y="389" font-size="14">SMART FRIENDS</text>
+
+  <!-- C: TOMATO -->
+  <g transform="translate(555, 485)">
+    <circle cx="-120" cy="0" r="40" fill="none" stroke="#000" stroke-width="2.5"/>
+    <line x1="-148" y1="-28" x2="-92" y2="28" stroke="#000" stroke-width="2.5"/>
+    <circle cx="0" cy="0" r="40" fill="none" stroke="#000" stroke-width="2.5"/>
+    <line x1="-28" y1="-28" x2="28" y2="28" stroke="#000" stroke-width="2.5"/>
+    <circle cx="120" cy="0" r="40" fill="none" stroke="#000" stroke-width="2.5"/>
+    <line x1="92" y1="-28" x2="148" y2="28" stroke="#000" stroke-width="2.5"/>
+  </g>
+  <line x1="337" y1="485" x2="370" y2="485" stroke="#000" stroke-width="2.5"/>
+  <polygon points="375,485 365,480 365,490" fill="#000"/>
+  <text x="60" y="480" font-size="14">C</text>
+  <text x="60" y="494" font-size="14">MULTIPLY-BY-ZERO</text>
+
+  <!-- D: CHEESE -->
+  <g transform="translate(555, 600)">
+    <polygon points="-180,-12 -168,12 180,12 168,-12" fill="none" stroke="#000" stroke-width="2.5"/>
+  </g>
+  <line x1="337" y1="600" x2="370" y2="600" stroke="#000" stroke-width="2.5"/>
+  <polygon points="375,600 365,595 365,605" fill="#000"/>
+  <text x="60" y="595" font-size="14">D</text>
+  <text x="60" y="609" font-size="14">SPECIFIC KNOWLEDGE</text>
+
+  <!-- E: MEAT -->
+  <g transform="translate(555, 710)">
+    <rect x="-180" y="-28" width="360" height="56" fill="none" stroke="#000" stroke-width="2.5"/>
+  </g>
+  <line x1="337" y1="710" x2="370" y2="710" stroke="#000" stroke-width="2.5"/>
+  <polygon points="375,710 365,705 365,715" fill="#000"/>
+  <text x="60" y="705" font-size="14">E</text>
+  <text x="60" y="719" font-size="14">THE CRAFT OF WRITING</text>
+
+  <!-- F: MUSTARD -->
+  <g transform="translate(555, 820)">
+    <polyline points="-180,6 -171,-6 -162,6 -153,-6 -144,6 -135,-6 -126,6 -117,-6 -108,6 -99,-6 -90,6 -81,-6 -72,6 -63,-6 -54,6 -45,-6 -36,6 -27,-6 -18,6 -9,-6 0,6 9,-6 18,6 27,-6 36,6 45,-6 54,6 63,-6 72,6 81,-6 90,6 99,-6 108,6 117,-6 126,6 135,-6 144,6 153,-6 162,6 171,-6 180,6" fill="none" stroke="#000" stroke-width="2.5"/>
+  </g>
+  <line x1="337" y1="820" x2="370" y2="820" stroke="#000" stroke-width="2.5"/>
+  <polygon points="375,820 365,815 365,825" fill="#000"/>
+  <text x="60" y="815" font-size="14">F</text>
+  <text x="60" y="829" font-size="14">LEVERAGE</text>
+
+  <!-- G: PICKLES -->
+  <g transform="translate(555, 920)">
+    <ellipse cx="-120" cy="0" rx="42" ry="18" fill="none" stroke="#000" stroke-width="2.5"/>
+    <ellipse cx="0" cy="0" rx="42" ry="18" fill="none" stroke="#000" stroke-width="2.5"/>
+    <ellipse cx="120" cy="0" rx="42" ry="18" fill="none" stroke="#000" stroke-width="2.5"/>
+  </g>
+  <line x1="337" y1="920" x2="370" y2="920" stroke="#000" stroke-width="2.5"/>
+  <polygon points="375,920 365,915 365,925" fill="#000"/>
+  <text x="60" y="915" font-size="14">G</text>
+  <text x="60" y="929" font-size="14">CRAFTSMANSHIP</text>
+
+  <!-- H: BOTTOM BUN -->
+  <g transform="translate(555, 1030)">
+    <rect x="-180" y="-18" width="360" height="36" fill="none" stroke="#000" stroke-width="2.5"/>
+  </g>
+  <line x1="337" y1="1030" x2="370" y2="1030" stroke="#000" stroke-width="2.5"/>
+  <polygon points="375,1030 365,1025 365,1035" fill="#000"/>
+  <text x="60" y="1025" font-size="14">H</text>
+  <text x="60" y="1039" font-size="14">STRUCTURE</text>
+
+  <!-- Dimension -->
+  <line x1="1050" y1="200" x2="1050" y2="1060" stroke="#000" stroke-width="0.5"/>
+  <polygon points="1050,200 1046,212 1054,212" fill="#000"/>
+  <polygon points="1050,1060 1046,1048 1054,1048" fill="#000"/>
+  <text x="1050" y="630" text-anchor="middle" font-size="14" transform="rotate(90,1050,630)">A LIFE WELL-STACKED</text>
+
+  <!-- Quote table -->
+  <!-- Outer borders -->
+  <line x1="40" y1="1110" x2="1070" y2="1110" stroke="#000" stroke-width="0.5"/>
+  <line x1="40" y1="1590" x2="1070" y2="1590" stroke="#000" stroke-width="0.5"/>
+  <line x1="40" y1="1110" x2="40" y2="1590" stroke="#000" stroke-width="0.5"/>
+  <line x1="1070" y1="1110" x2="1070" y2="1590" stroke="#000" stroke-width="0.5"/>
+  <!-- Letter column divider -->
+  <line x1="90" y1="1110" x2="90" y2="1590" stroke="#000" stroke-width="0.5"/>
+  <!-- Row dividers -->
+  <line x1="40" y1="1170" x2="1070" y2="1170" stroke="#000" stroke-width="0.5"/>
+  <line x1="40" y1="1230" x2="1070" y2="1230" stroke="#000" stroke-width="0.5"/>
+  <line x1="40" y1="1290" x2="1070" y2="1290" stroke="#000" stroke-width="0.5"/>
+  <line x1="40" y1="1350" x2="1070" y2="1350" stroke="#000" stroke-width="0.5"/>
+  <line x1="40" y1="1410" x2="1070" y2="1410" stroke="#000" stroke-width="0.5"/>
+  <line x1="40" y1="1470" x2="1070" y2="1470" stroke="#000" stroke-width="0.5"/>
+  <line x1="40" y1="1530" x2="1070" y2="1530" stroke="#000" stroke-width="0.5"/>
+  <!-- Row text -->
+  <text x="65" y="1145" text-anchor="middle" font-size="14">A</text>
+  <text x="105" y="1145" font-size="14">"THE QUEST IS THE POINT. THE PERFECT SANDWICH MAY NOT EXIST."</text>
+
+  <text x="65" y="1205" text-anchor="middle" font-size="14">B</text>
+  <text x="105" y="1205" font-size="14">"WHEN WE HAVE SMART FRIENDS, WE DO SMART THINGS."</text>
+
+  <text x="65" y="1265" text-anchor="middle" font-size="14">C</text>
+  <text x="105" y="1265" font-size="14">"MEALY TOMATO? ZERO. ONE BAD INGREDIENT ZEROS IT ALL."</text>
+
+  <text x="65" y="1325" text-anchor="middle" font-size="14">D</text>
+  <text x="105" y="1325" font-size="14">"LOOKS LIKE PLAY TO YOU BUT WORK TO EVERYONE ELSE."</text>
+
+  <text x="65" y="1385" text-anchor="middle" font-size="14">E</text>
+  <text x="105" y="1385" font-size="14">"WRITING IS THINKING."</text>
+
+  <text x="65" y="1445" text-anchor="middle" font-size="14">F</text>
+  <text x="105" y="1445" font-size="14">"THE CONDIMENT CARRIES FLAVOR WHERE INGREDIENTS CANNOT REACH."</text>
+
+  <text x="65" y="1505" text-anchor="middle" font-size="14">G</text>
+  <text x="105" y="1505" font-size="14">"YOU COULD HAVE SHIPPED AND DIDN'T."</text>
+
+  <text x="65" y="1565" text-anchor="middle" font-size="14">H</text>
+  <text x="105" y="1565" font-size="14">"A SOGGY BOTTOM IS A STRUCTURAL COLLAPSE."</text>
+
+  <!-- Footer -->
+  <text x="555" y="1660" text-anchor="middle" font-size="14">"NOT ENOUGH MUSTARD IS NOT CAREFUL. IT IS COWARDLY."</text>
+  <text x="555" y="1674" text-anchor="middle" font-size="14">© 2026 THE JORGENSON TRIO</text>
+
+</svg>
